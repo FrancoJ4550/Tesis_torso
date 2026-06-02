@@ -33,13 +33,13 @@ int main(int argc, char** argv)
     bool finished = false;
 
     // ---------- Límites en grados  ----------
-    const double PAN_LEFT  = 45;
-    const double PAN_ZERO = 0;
-    const double PAN_RIGHT  = -45;
+    //const double PAN_LEFT  = 45;
+    //const double PAN_ZERO = 0;
+    //const double PAN_RIGHT  = -45;
 
-    const double TILT_UP  = -37;
-    const double TILT_ZERO = 0;
-    const double TILT_DOWN  = 24;
+    //const double TILT_UP  = -37;
+    //const double TILT_ZERO = 0;
+    //const double TILT_DOWN  = 24;
     
     // ---------- Límites en radianes ----------
     const double PAN_LEFT  =  0.785398;   //  45°
